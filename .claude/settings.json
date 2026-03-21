@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "mcp__c7cdc45d-6202-49de-b41d-f6186983a507__notion-create-pages|mcp__c7cdc45d-6202-49de-b41d-f6186983a507__notion-update-page",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd /Users/huahua_mbp/AI/Claude/claude_todo && git add -A && git commit -m \"Update Notion tasks\" && git push 2>&1 || true",
+            "statusMessage": "Syncing to GitHub...",
+            "async": true
+          }
+        ]
+      }
+    ]
+  }
+}

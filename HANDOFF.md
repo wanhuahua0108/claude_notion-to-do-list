@@ -44,7 +44,7 @@
 
 ---
 
-## 初始任务列表（15 条，创建于 2026-03-21）
+## 初始任务列表（16 条，创建于 2026-03-21）
 
 | Task | Status | Area | Project | Priority | Due |
 |------|--------|------|---------|----------|-----|
@@ -63,6 +63,17 @@
 | 完成今天最小可交付事项 | 进行中 | 工作 | Daily execution | 高 | 2026-03-21 |
 | 为 Notion 任务库建立 Today 视图 | 待办 | 生活 | Notion setup | 中 | 2026-03-21 |
 | 为 Notion 任务库建立 Waiting 视图 | 待办 | 生活 | Notion setup | 低 | 2026-03-21 |
+| 把Google 文档里的订阅列表加入notion的提醒功能 | 待办 | 生活 | Notion setup | 中 | 2026-03-24 |
+
+---
+
+## 自动化配置
+
+### Git Auto-Push Hook
+- **配置文件**: `.claude/settings.json`
+- **触发条件**: 每次添加或修改 Notion 任务后
+- **执行命令**: `git add -A && git commit -m "Update Notion tasks" && git push`
+- **执行模式**: 后台异步执行（不阻塞工作）
 
 ---
 
