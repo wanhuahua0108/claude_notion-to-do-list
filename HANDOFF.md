@@ -71,7 +71,7 @@
 
 ---
 
-## 任务列表（22 条，初始创建于 2026-03-21，持续更新）
+## 任务列表（23 条，初始创建于 2026-03-21，持续更新）
 
 | Task | Status | Area | Project | Priority | Due |
 |------|--------|------|---------|----------|-----|
@@ -97,6 +97,7 @@
 | 学习Claude Course | 待办 | 工作 | Learning | 高 | - |
 | 在Cowork里完成任务 | 待办 | 工作 | Work Location | 中 | - |
 | 把Obsidian用起来 | 待办 | 工作 | Tools Setup | 高 | - |
+| Obsidian与Github的连接 | 待办 | 工作 | Tools Setup | 中 | - |
 
 ---
 
