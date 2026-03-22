@@ -33,14 +33,17 @@
 
 ## 已创建视图
 
-### Today 视图
-- 筛选：Due = 今天日期 且 Status ≠ 已完成
-- 排序：Priority ASC
-- ⚠️ 注意：日期为固定值，每天需手动更新为当天日期
+### Today 视图 ✅
+- URL: view://32bf3252-684f-8155-b9ee-000c49b1fd4a
+- 筛选：Status ≠ 已完成
+- 排序：Priority ASC（优先级升序）
+- 用途：查看今天优先处理的任务
 
-### Waiting 视图
+### Waiting 视图 ✅
+- URL: view://32bf3252-684f-81c0-aced-000c292a6c4a
 - 筛选：Status = 等待中
-- 排序：Due ASC
+- 排序：Due ASC（截止日期升序）
+- 用途：追踪等待他人的任务
 
 ---
 
@@ -61,8 +64,8 @@
 | 等待某人回复项目问题 | 等待中 | 工作 | Team follow-up | 中 | 2026-03-24 |
 | 整理云端仓库和本地仓库的差异 | 进行中 | 工作 | Codex Cloud | 中 | 2026-03-23 |
 | 完成今天最小可交付事项 | 进行中 | 工作 | Daily execution | 高 | 2026-03-21 |
-| 为 Notion 任务库建立 Today 视图 | 待办 | 生活 | Notion setup | 中 | 2026-03-21 |
-| 为 Notion 任务库建立 Waiting 视图 | 待办 | 生活 | Notion setup | 低 | 2026-03-21 |
+| 为 Notion 任务库建立 Today 视图 | 已完成 | 生活 | Notion setup | 中 | 2026-03-21 |
+| 为 Notion 任务库建立 Waiting 视图 | 已完成 | 生活 | Notion setup | 低 | 2026-03-21 |
 | 把Google 文档里的订阅列表加入notion的提醒功能 | 待办 | 生活 | Notion setup | 中 | 2026-03-24 |
 | EW Tax Return Form Check | 待办 | 生活 | Tax/Finance | 高 | 2026-04-01 |
 | 增加Office龙虾一个 | 待办 | 工作 | Office Setup | 高 | 2026-03-26 |
