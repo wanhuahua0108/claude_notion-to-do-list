@@ -34,7 +34,7 @@
 ## 已创建视图
 
 ### Default view（主视图）
-- **列顺序**: Task | Status | Area | Due | Next step | Notes | Priority | Project | Waiting for
+- **列顺序**: Area | Task | Status | Priority | Due | Next step | Notes | Project | Waiting for
 - **排序**: Priority ASC（优先级升序）
 
 ### Today 视图 ✅
