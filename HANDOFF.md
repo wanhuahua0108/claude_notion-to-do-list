@@ -44,7 +44,7 @@
 
 ---
 
-## 初始任务列表（16 条，创建于 2026-03-21）
+## 任务列表（17 条，初始创建于 2026-03-21，持续更新）
 
 | Task | Status | Area | Project | Priority | Due |
 |------|--------|------|---------|----------|-----|
@@ -64,6 +64,7 @@
 | 为 Notion 任务库建立 Today 视图 | 待办 | 生活 | Notion setup | 中 | 2026-03-21 |
 | 为 Notion 任务库建立 Waiting 视图 | 待办 | 生活 | Notion setup | 低 | 2026-03-21 |
 | 把Google 文档里的订阅列表加入notion的提醒功能 | 待办 | 生活 | Notion setup | 中 | 2026-03-24 |
+| EW Tax Return Form Check | 待办 | 生活 | Tax/Finance | 高 | 2026-04-01 |
 
 ---
 
