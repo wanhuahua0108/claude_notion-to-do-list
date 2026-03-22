@@ -71,7 +71,7 @@
 
 ---
 
-## 任务列表（19 条，初始创建于 2026-03-21，持续更新）
+## 任务列表（21 条，初始创建于 2026-03-21，持续更新）
 
 | Task | Status | Area | Project | Priority | Due |
 |------|--------|------|---------|----------|-----|
@@ -94,6 +94,8 @@
 | EW Tax Return Form Check | 待办 | 生活 | Tax/Finance | 高 | 2026-04-01 |
 | 增加Office龙虾一个 | 待办 | 工作 | Office Setup | 高 | 2026-03-26 |
 | 增加Sound Miner软件复刻 | 待办 | 工作 | Tool Development | 中 | 2026-04-05 |
+| 学习Claude Course | 待办 | 工作 | Learning | 高 | - |
+| 在Cowork里完成任务 | 待办 | 工作 | Work Location | 中 | - |
 
 ---
 
