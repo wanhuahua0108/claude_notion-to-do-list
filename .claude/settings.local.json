@@ -13,7 +13,8 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(git push:*)",
-      "Bash(git checkout:*)"
+      "Bash(git checkout:*)",
+      "Bash(jq -e '.hooks.UserPromptSubmit[] | .hooks[] | select\\(.type == \"\"command\"\"\\) | .command' /Users/huahua_mbp/.claude/settings.json)"
     ]
   }
 }

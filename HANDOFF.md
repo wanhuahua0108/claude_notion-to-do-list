@@ -101,11 +101,20 @@
 
 ## 自动化配置
 
-### Git Auto-Push Hook
-- **配置文件**: `.claude/settings.json`
+### Git Auto-Push Hook（Notion 任务变更）
+- **配置文件**: `.claude/settings.json`（项目级）
+- **事件**: PostToolUse（Notion 工具执行后）
 - **触发条件**: 每次添加或修改 Notion 任务后
 - **执行命令**: `git add -A && git commit -m "Update Notion tasks" && git push`
 - **执行模式**: 后台异步执行（不阻塞工作）
+
+### Auto-Handoff Hook（手动触发）
+- **配置文件**: `~/.claude/settings.json`（全局）
+- **事件**: UserPromptSubmit（用户提交 prompt 时）
+- **触发条件**: prompt 包含 "handoff" 或 "Handoff"（不区分大小写）
+- **执行命令**: `git add -A && git commit -m "Auto-commit: Handoff command" && git push`
+- **执行模式**: 后台异步执行
+- **用途**: 快速保存和推送所有改动到 GitHub
 
 ---
 
