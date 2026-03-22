@@ -35,7 +35,9 @@
 
 ### Default view（主视图）
 - **列顺序**: Area | Task | Status | Priority | Due | Next step | Notes | Project | Waiting for
+- **筛选**: Status ≠ 已完成（自动隐藏已完成的任务）
 - **排序**: Priority ASC（优先级升序）
+- **用途**: 所有进行中的任务一览
 
 ### Today 视图 ✅
 - **ID**: view://32bf3252-684f-8155-b9ee-000c49b1fd4a
