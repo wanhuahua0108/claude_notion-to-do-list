@@ -33,6 +33,10 @@
 
 ## 已创建视图
 
+### Default view（主视图）
+- **列顺序**: Task | Status | Area | Due | Next step | Notes | Priority | Project | Waiting for
+- **排序**: Priority ASC（优先级升序）
+
 ### Today 视图 ✅
 - **ID**: view://32bf3252-684f-8155-b9ee-000c49b1fd4a
 - **筛选**: Status ≠ 已完成
@@ -44,6 +48,12 @@
 - **筛选**: Status = 等待中
 - **排序**: Due ASC（截止日期升序）
 - **用途**: 追踪等待他人响应/反馈的任务
+
+### 已完成 视图 ✅
+- **ID**: view://32bf3252-684f-81bc-827a-000c7fb2b4b6
+- **筛选**: Status = 已完成
+- **排序**: Due DESC（截止日期降序）
+- **用途**: 查看已完成的任务历史
 
 ---
 
