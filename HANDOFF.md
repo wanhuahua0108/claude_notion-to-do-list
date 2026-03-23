@@ -71,7 +71,7 @@
 
 ---
 
-## 任务列表（23 条，初始创建于 2026-03-21，持续更新）
+## 任务列表（26 条，初始创建于 2026-03-21，持续更新）
 
 | Task | Status | Area | Project | Priority | Due |
 |------|--------|------|---------|----------|-----|
@@ -98,6 +98,9 @@
 | 在Cowork里完成任务 | 待办 | 工作 | Work Location | 中 | - |
 | 把Obsidian用起来 | 待办 | 工作 | Tools Setup | 高 | - |
 | Obsidian与Github的连接 | 待办 | 工作 | Tools Setup | 中 | - |
+| 在现有的两个View基础上，增加一个View-财务 | 待办 | 生活 | Notion setup | 高 | - |
+| 在IB页面中增加本月盈亏的显示 | 待办 | 工作 | IB Dashboard | 中 | - |
+| 在IB页面中只显示当前账户的订单，汇总显示两个Live账户的订单 | 待办 | 工作 | IB Dashboard | 中 | - |
 
 ---
 
